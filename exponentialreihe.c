@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>			// Eigentlich nicht notwendig, da 10^(-9) auch anders geschrieben werden kann
+#include <math.h>			// Eigentlich nicht notwendig, da 10^(-12) auch anders geschrieben werden kann
 
 
 
